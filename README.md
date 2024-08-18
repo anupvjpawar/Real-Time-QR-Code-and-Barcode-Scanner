@@ -1,0 +1,1 @@
+# Real-Time-QR-Code-and-Barcode-Scanner
